@@ -1,0 +1,15 @@
+.reg-parent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo-img {
+  height: 40px;
+  width: 80x;
+  margin: 10px 0;
+}
+@media only screen and (max-width: 557px) {
+  .paper-sec {
+    width: 75% !important;
+  }
+}

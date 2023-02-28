@@ -1,0 +1,16 @@
+.parent {
+  padding: 0 20px;
+}
+
+.heding h2,
+p {
+  color: #000;
+}
+.heding {
+  margin: 20px 0;
+}
+@media only screen and (max-width: 557px) {
+  .MuiDataGrid-cell .MuiDataGrid-cell--textLeft {
+    border: 2px solid red;
+  }
+}
